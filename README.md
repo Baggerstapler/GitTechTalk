@@ -5,6 +5,7 @@ Keine Sorge, falls was kaputt geht. Hier können wir ohne Konsequenzen dran rump
 bla bla bla 
 Git ist toll
 
+NUR DER HSV!
 
 # Cheat Sheet
 
