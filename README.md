@@ -2,6 +2,10 @@
 Git Repo zum TechTalk "Arbeiten mit Git". Hier kann herumprobiert werden mit branches, rebases usw.
 Keine Sorge, falls was kaputt geht. Hier können wir ohne Konsequenzen dran rumprobieren und reparieren.
 
+bla bla bla 
+Git ist toll
+
+
 # Cheat Sheet
 
 ## Stage & Snapshot
